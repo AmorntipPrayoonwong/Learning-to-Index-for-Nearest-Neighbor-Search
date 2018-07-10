@@ -18,14 +18,17 @@ residual vector quantization.
 
 # Full Paper
   Our full paper is now available online.
+  
   View full paper: https://arxiv.org/pdf/1807.02962.pdf
 
 # The 1000 NNs in the ground truth of DEEP1B
   The 1000 NNs in the ground truth of DEEP1B is available to download from: 
+  
   https://drive.google.com/drive/folders/1YCOh0wMlENxiLfMO0waG40TQ6Spx8Umy?usp=sharing
 
 # Source Code
   Our source code project for SIFT1B RVQ 256x256 is available at:
+  
   https://drive.google.com/drive/folders/1YCOh0wMlENxiLfMO0waG40TQ6Spx8Umy?usp=sharing
   
   
