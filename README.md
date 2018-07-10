@@ -25,7 +25,7 @@ residual vector quantization.
   https://drive.google.com/drive/folders/1YCOh0wMlENxiLfMO0waG40TQ6Spx8Umy?usp=sharing
 
 # Source Code
-  Our source code project for SIFT1B RVQ 256x256 is available at :
+  Our source code project for SIFT1B RVQ 256x256 is available at:
   https://drive.google.com/drive/folders/1YCOh0wMlENxiLfMO0waG40TQ6Spx8Umy?usp=sharing
   
   
