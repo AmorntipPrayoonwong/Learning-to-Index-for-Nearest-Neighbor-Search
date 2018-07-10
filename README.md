@@ -1,4 +1,32 @@
 # Learning-to-Index-for-Nearest-Neighbor-Search
-Under construction !!!
-For our source codes,...we're launching very soon...
+Chih-Yi Chiu, Member, IEEE, Amorntip Prayoonwong, and Yin-Chih Liao
+
+# Abstract
+In this study, we present a novel ranking model based on learning the nearest neighbor relationships embedded in the index
+space. Given a query point, a conventional nearest neighbor search approach calculates the distances to the cluster centroids, before
+ranking the clusters from near to far based on the distances. The data indexed in the top-ranked clusters are retrieved and treated as
+the nearest neighbor candidates for the query. However, the loss of quantization between the data and cluster centroids will inevitably
+harm the search accuracy. To address this problem, the proposed model ranks clusters based on their nearest neighbor probabilities
+rather than the query-centroid distances to the query. The nearest neighbor probabilities are estimated by employing neural networks
+to characterize the neighborhood relationships as a nonlinear function, i.e., the density distribution of nearest neighbors with respect to the query. The proposed probability-based ranking model can replace the conventional distance-based ranking model as a coarse filter
+for candidate clusters, and the nearest neighbor probability can be used to determine the data quantity to be retrieved from the
+candidate cluster. Our experimental results demonstrated that implementation of the proposed ranking model for two state-of-the-art
+nearest neighbor quantization and search methods could boost the search performance effectively in billion-scale datasets.
+Index Terms—cluster reranking, hash-based indexing, nearest neighbor distribution probability, optimized product quantization,
+residual vector quantization.
+
+
+# Full Paper
+  Our full paper is now available online.
+  View full paper: https://arxiv.org/pdf/1807.02962.pdf
+
+# The 1000 NNs in the ground truth of DEEP1B
+  The 1000 NNs in the ground truth of DEEP1B is available to download from: 
+  https://drive.google.com/drive/folders/1YCOh0wMlENxiLfMO0waG40TQ6Spx8Umy?usp=sharing
+
+# Source Code
+  Our source code project for SIFT1B RVQ 256x256 is available at :
+  https://drive.google.com/drive/folders/1YCOh0wMlENxiLfMO0waG40TQ6Spx8Umy?usp=sharing
+  
+  
 
