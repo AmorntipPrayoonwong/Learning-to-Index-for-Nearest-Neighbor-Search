@@ -12,9 +12,9 @@ to characterize the neighborhood relationships as a nonlinear function, i.e., th
 for candidate clusters, and the nearest neighbor probability can be used to determine the data quantity to be retrieved from the
 candidate cluster. Our experimental results demonstrated that implementation of the proposed ranking model for two state-of-the-art
 nearest neighbor quantization and search methods could boost the search performance effectively in billion-scale datasets.
+
 Index Terms—cluster reranking, hash-based indexing, nearest neighbor distribution probability, optimized product quantization,
 residual vector quantization.
-
 
 # Full Paper
   Our full paper is now available online.
