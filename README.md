@@ -31,4 +31,4 @@ residual vector quantization.
    
   https://drive.google.com/drive/folders/1WLGYzpLDWTh88GC5G-vOm3Ctm8rYF8vr?usp=sharing
  
-
+  These codes are in the coarse search process. We simulate how to retrieve the candidate second-level clusters for SIFT1B RVQ before performing the ADC. Then, calculate the top-1 recall along with the candidate second-level clusters.
