@@ -24,12 +24,11 @@ residual vector quantization.
 # The 1000 NNs in the ground truth of DEEP1B
   The 1000 NNs in the ground truth of DEEP1B is available to download from: 
   
-  https://drive.google.com/drive/folders/1YCOh0wMlENxiLfMO0waG40TQ6Spx8Umy?usp=sharing
-
+  https://drive.google.com/file/d/1FMV-oQadE6zUZUt6-WYYRl3beoGoERZJ/view?usp=sharing
+  
 # Source Code
-  Our source code project for SIFT1B RVQ 256x256 is available at:
-  
-  https://drive.google.com/drive/folders/1YCOh0wMlENxiLfMO0waG40TQ6Spx8Umy?usp=sharing
-  
-  
+  Our source code for SIFT1B RVQ 4096x4096 is available at:
+   
+  https://drive.google.com/drive/folders/1WLGYzpLDWTh88GC5G-vOm3Ctm8rYF8vr?usp=sharing
+ 
 
