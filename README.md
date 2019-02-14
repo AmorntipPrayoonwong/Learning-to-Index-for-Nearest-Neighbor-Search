@@ -30,5 +30,5 @@ residual vector quantization.
   Our source code for SIFT1B RVQ 4096x4096 is available at:
   
   https://drive.google.com/drive/folders/1g0GLYFeYYt4nFKtfwn7s8JhPkRWqWNxt?usp=sharing
-   
+  
   These codes are in the coarse search process. We simulate how to retrieve the candidate second-level clusters for SIFT1B RVQ before performing the ADC. Then, calculate the top-1 recall along with the candidate second-level clusters.
