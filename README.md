@@ -27,8 +27,16 @@ residual vector quantization.
   https://drive.google.com/file/d/1FMV-oQadE6zUZUt6-WYYRl3beoGoERZJ/view?usp=sharing
   
 # Source Code
-  Our source code for SIFT1B RVQ 4096x4096 is available at:
+  Our source codes and data for SIFT1B RVQ 4096x4096 is available at:
   
   https://drive.google.com/drive/folders/1LyDFygrQff2DTm0XUwRCAgjgdUin81TQ?usp=sharing
   
   These codes are in the coarse search process. We simulate how to retrieve the candidate second-level clusters for SIFT1B RVQ before performing the ADC. Then, we calculate the top-1 recall along with the candidate second-level clusters.
+  
+  Only source codes are also provided here :
+  The main procedure :
+  https://github.com/AmorntipPrayoonwong/Learning-to-Index-for-Nearest-Neighbor-Search/blob/master/main_experiment.py
+  
+  The sub procedures are in the library folder lib :
+  https://github.com/AmorntipPrayoonwong/Learning-to-Index-for-Nearest-Neighbor-Search/tree/master/lib
+  
