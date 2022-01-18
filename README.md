@@ -25,11 +25,12 @@ residual vector quantization.
   The 1000 NNs in the ground truth of DEEP1B is available to download from: 
   
   https://drive.google.com/file/d/1FMV-oQadE6zUZUt6-WYYRl3beoGoERZJ/view?usp=sharing
+  (under the amendment of the storage address, link will be available soon.)
   
 # Source Code
   Our source codes and data for SIFT1B RVQ 4096x4096 is available at:
   
-  https://drive.google.com/drive/folders/1LyDFygrQff2DTm0XUwRCAgjgdUin81TQ?usp=sharing
+  https://drive.google.com/drive/folders/13N6jJGB8p1yDCpa-a1JRq36SM9ZbfNdj?usp=sharing
   
   These codes are in the coarse search process. We simulate how to retrieve the candidate second-level clusters for SIFT1B RVQ before performing the ADC. Then, we calculate the top-1 recall along with the candidate second-level clusters.
   
@@ -40,3 +41,8 @@ residual vector quantization.
   The sub procedures are in the library folder lib :
   https://github.com/AmorntipPrayoonwong/Learning-to-Index-for-Nearest-Neighbor-Search/tree/master/lib
   
+  Preprocessing & Learning code examples can be downloaded from: https://drive.google.com/drive/folders/1w9IffP6jeUOZMCF9pm3ybQDRRz2vwPqD?usp=sharing
+  
+  IVF file is available to download from: https://drive.google.com/drive/folders/15Xuk9jEEcZdD0x0ECz2PuCoZuw0RHoQf?usp=sharing
+
+
